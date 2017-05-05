@@ -3,6 +3,6 @@ var triangle = "";
 var i = 0;
 
 for (i = 0; i < 10; i++) {
-  var triangle = triangle + textInput;
+  triangle = triangle + textInput;
   document.write(triangle + '<br>');
 }
